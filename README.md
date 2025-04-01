@@ -11,5 +11,5 @@
 <img src="tags.png" alt="" width="800">
 
 <h3>4. recent_jobs</h3>
-<img src="recent_jobs" alt="" width="800">
+<img src="recent_jobs.png" alt="" width="800">
 

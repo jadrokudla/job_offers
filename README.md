@@ -1,6 +1,6 @@
 
 ## 📸 Screenshots
-<h2>MVC job_offers, SQlite DB, Vite. User->employer->job  </h2>
+<h2>MVC job_offers, SQlite DB, Vite, loging user. User->employer->job  </h2>
 <h3>1. Register user</h3>
 <img src="register1.png" alt="" width="800">
 

@@ -1,7 +1,7 @@
 
 ## 📸 Screenshots
 <h2>MVC job_offers, SQlite DB, Vite.  </h2>
-<h3>1. register user</h3>
+<h3>1. registration of user</h3>
 <img src="register1.png" alt="" width="800">
 
 <h3>2. explanation</h3>
